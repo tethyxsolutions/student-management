@@ -102,6 +102,7 @@ DATABASES = {
     # }
 }
 
+DISABLE_COLLECTSTATIC=1
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
